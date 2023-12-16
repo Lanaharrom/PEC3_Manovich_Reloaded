@@ -57,11 +57,34 @@ El mayor elemento a destacar en la hibridación de este caso es la relación que
 ## Re-descubriendo la hibridacion: Caso 2
 ![Cultura Digital](https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_YouTube_image1280w.jpg) 
 
+intro
+Al analizar detenidamente el contenido sobre hibridación de Manovich en su libro “El Software toma el mando” podemos entender que un medio híbrido es un conjunto de metamedios que forman algo nuevo con diversas capacidades que los medios anteriores no tenían o no habían sido concebidos para ello.
+
+Youtube es un claro ejemplo de hibridación de medios en todos sus aspectos ya desde un inicio youtube, que apareció en internet el 14 de febrero de 2005 y en sus inicios tan solo era una plataforma para cargar, compartir y ver vídeos, con el tiempo fueron añadiendo sistemas de valoración, mejores capacidades de rendimiento de subida de vídeos, mejoras de la interfaz y un largo etcétera.
+
+Vamos a centrar nuestro foco en 5 aspectos destacados de esta plataforma para hacer un buen análisis de hibridación:
+
+-**Variedad de formatos:** Hoy día Youtube admite diferentes formatos multimedia, ya que puedes desde subir un vídeo, un audio, contenido interactivo y transmisiones en directo.
+
+-**Algoritmo de recomendaciones:** Es muy importante nombrar que gracias al avance computacional se han logrado crear algoritmos que generan listas de contenido recomendadas al usuario en función de lo que consume en la plataforma.
+
+-**Monetización:** En un principio no existía nadie que percibiera algún tipo de monetización a través de los vídeos de la plataforma, debido a la intervención de terceros, youtube decidió crear un espacio dentro de su plataforma donde un usuario puede llegar a percibir un sueldo debido a la interactividad con el resto de usuarios dentro de la plataforma.
+
+-**Usuario como creador:** Youtube ha creado un ecosistema en el que los usuarios mismos retroalimentan continuamente el contenido de la plataforma, cualquier persona que cree una cuenta, puede subir contenido para compartir al resto de usuarios.
+
+-**Integración de redes sociales:** A lo largo de la vida de Youtube, este ha conseguido que otras plataformas se comuniquen entre sí a través de la plataforma, para compartir fácilmente los contenidos.
+
+Estos aspectos han hecho de la plataforma un gran medio de metamedios hibridados entre sí para formar la plataforma, podemos nombrar muchos más aspectos más concreto como la capacidad de subir vídeos con una etiqueta geolocalizada o como el  pago dentro de la plataforma usando servicios de terceros
+
+Finalmente, Youtube es un claro ejemplo de hibridación donde cada año de vida renueva sus funcionalidades, es interesante descubrir como medios de uso diario tienen una historia que contar, y a través de “las lentes de Manovich”, descubrimos que la hibridación de medios introducidas en esta plataforma no es solo algo que se vaya a quedar estancado o en desuso si no que con el tiempo seguirá “hibridando” a otros formatos.
+
+
+
+
 >**Lev Manovich**
 >>la hibridación de medios es una reconfiguración del universo de 
 medios más profunda que la multimedia.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 ### Referencias y Bibliografía
